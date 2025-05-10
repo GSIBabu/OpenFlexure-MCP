@@ -20,9 +20,9 @@ The OpenFlexure MCP server provides the following tools:
   
 Additionally, these resources are available:
 
-microscope://info - Information about the connected microscope
-microscope://position - Current stage position
-microscope://extensions - Available microscope extensions
+* microscope://info - Information about the connected microscope
+* microscope://position - Current stage position
+* microscope://extensions - Available microscope extensions
 
 The server also includes template prompts for common operations like capturing images at specific positions, creating Z-stacks, and exploring extensions.
 
